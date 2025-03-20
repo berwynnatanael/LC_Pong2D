@@ -45,4 +45,4 @@ public class PlayerControls : MonoBehaviour
         }
         transform.position = pos;
     }
-}
+}    
